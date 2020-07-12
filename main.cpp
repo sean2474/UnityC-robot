@@ -4,7 +4,7 @@ void printNumber() {
 	std::cout << "1" << std::endl;
 }
 
-void printOnetoTen(){
+void printOnetoTen() {
 	for(int i = 0; i < 10; i++) {
 		std::cout << i << std::endl;
 	}
